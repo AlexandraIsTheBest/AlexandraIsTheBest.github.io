@@ -1,0 +1,45 @@
+*{
+margin: 0%;
+
+}
+
+h1{
+font-family: 'Pacifico', cursive;
+text-align: center;
+font-size: 50px;
+background-color: rgb(18,145,42);
+padding-top: 20px;
+padding-bottom: 20px;
+}
+header{
+background-color: rgb(18,145,42);
+margin-top: 0%;
+}
+
+li{
+  display: inline;
+  padding-left: 15px;
+  font-size: 20px;
+
+}
+ul{
+  background-color: rgb(12,129,232);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+article{
+margin-top: 25px;
+margin-left: 15%;
+margin-right: 15%;
+background-color: white;
+padding: 10px;
+border: 10px;
+border-radius: 8px;
+border-color: rgb(12,129,232);
+font-size: 17px;
+font-family: 'Lora', serif;
+}
+body{
+  background: url("https://static1.squarespace.com/static/564a53ace4b0ef1eb2daff41/t/58632eb4ff7c501ec52eb184/1482957928492/BooksArticles_Book_quattrostagioni.jpg?format=1500w");
+  background-repeat: no-repeat;
+}
