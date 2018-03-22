@@ -29,8 +29,9 @@ ul{
 }
 article{
 margin-top: 25px;
-margin-left: 15%;
-margin-right: 15%;
+margin-left: 20%;
+margin-right: 20%;
+margin-bottom: 25px;
 background-color: white;
 padding: 10px;
 border: 10px;
@@ -42,4 +43,9 @@ font-family: 'Lora', serif;
 body{
   background: url("https://static1.squarespace.com/static/564a53ace4b0ef1eb2daff41/t/58632eb4ff7c501ec52eb184/1482957928492/BooksArticles_Book_quattrostagioni.jpg?format=1500w");
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
