@@ -40,4 +40,9 @@ main {
 body{
   background: url("https://static1.squarespace.com/static/564a53ace4b0ef1eb2daff41/t/58632eb4ff7c501ec52eb184/1482957928492/BooksArticles_Book_quattrostagioni.jpg?format=1500w");
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
